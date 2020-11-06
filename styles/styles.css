@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: lightpink;
+    color:White;
+
+} 
+
+img{
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin: auto;
+    
+}
+
+*{margin:0; padding:0;
+}
+ p{
+     padding-top:20px;
+    font-size: medium;
+    font-family:'Times New Roman';
+    background-color: lightpink;
+}
+body {
+    background: url("/images/collage.webp");
+    width: 100%;
+    alt:100%;
+    text-align: center;
+}
+
+
+
